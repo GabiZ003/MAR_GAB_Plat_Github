@@ -1,0 +1,21 @@
+Plateformer Gabriel Martinache :
+
+La mecanique de mon plateformer est le dash, 
+il faut maintenir F enfoncé pour charger son dash.
+Le dash comporte un système d'énergie et de charge, le joueur peut stocker jusqu'à 5 d'énergie. 
+Le dash consomme minimum 1.1 d'énergie et maximum 2 d'énergie selon le niveau de charge, plus la charge est grande, plus le perso dash loin.
+Il y a un cooldown de 3 secondes avec de pouvoir re dasher. 
+Le joueur doit récolter des boules d'énergies (boules bleues claire) pour récuperer de l'énergie.
+La barre d'énergie est la grosse barre bleue située en bas. 
+La barre de cool down est située juste au dessus sur la gauche. 
+La barre de charge apparait en rouge en dessous de la barre d'énergie.
+
+L'énergie sert aussi de bouclier au joueur, toucher un piège alors qu'il ne vous reste que 1.2 d'énergie ou moins vous tuera. 
+Si vous touchez un piège alors qu'il vous reste du bouclier, vous retombez à 1.2 d'énergie voir plus bas.
+
+Vous pouvez ouvrir des portes avec E.
+
+Le but du niveau est de parcourrir le batiment jusqu'à atteindre le drapeau rouge. 
+Pour ce faire, il faut esquiver des pièges, effectuer du parcours, ouvrir des murs à l'aide de clées. Le dash sera souvent nécessaire pour faire tout cela.
+
+
